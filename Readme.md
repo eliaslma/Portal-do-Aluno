@@ -8,4 +8,5 @@ Modelo Entidade-Relacionamento do portal foi desenvolvido utilizando a ferrament
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/eliaslma/Portal-do-Aluno/main/drawio.jpg">
+  <a href="https://raw.githubusercontent.com/eliaslma/Portal-do-Aluno/main/MER-Portal.pdf">Modelo disponível em .PDF</a>
 </div>
